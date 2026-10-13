@@ -1,0 +1,10 @@
+# Binaries live on GitHub Releases, not in git.
+files/
+*.AppImage
+*.deb
+*.rpm
+*.flatpak
+*.exe
+*.zip
+*.tar.gz
+.DS_Store
