@@ -23,8 +23,8 @@ const PLATFORM = {
   '.AppImage': 'linux',
   '.deb': 'linux',
   '.rpm': 'linux',
-  '.flatpak': 'linux',
-  '.tar.gz': 'linux'
+  '.tar.gz': 'linux',
+  '.pkg.tar.zst': 'linux'
 }
 
 function platformOf(name) {
@@ -44,8 +44,8 @@ const names = [
   `Lagu-${version}.AppImage`,
   `lagu-music-player_${version}_amd64.deb`,
   `lagu-music-player-${version}.x86_64.rpm`,
-  `Lagu-${version}.flatpak`,
-  `lagu-music-player-${version}.tar.gz`
+  `lagu-music-player-${version}.tar.gz`,
+  `lagu-${version}-1-x86_64.pkg.tar.zst`
 ]
 
 const files = []

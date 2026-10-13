@@ -1,0 +1,50 @@
+{
+  "version": "0.2.1",
+  "label": "v0.2.1b",
+  "date": "2026-10-13",
+  "beta": true,
+  "files": [
+    {
+      "platform": "windows",
+      "name": "Lagu-0.2.1-setup.exe",
+      "size": 118295569,
+      "sha256": "9e167d4f18cc87fb559d88866641eb8db5546c99b0bb929444b615eb1a50f5b3"
+    },
+    {
+      "platform": "macos",
+      "name": "Lagu-0.2.1-mac.zip",
+      "size": 389155737,
+      "sha256": "f751475fed6edede94b385c2e909f1f3dbf7b78c2b1121f59c59bb9c1d9deda5"
+    },
+    {
+      "platform": "linux",
+      "name": "Lagu-0.2.1.AppImage",
+      "size": 131472965,
+      "sha256": "10f426213384a8585973f1f60041c88eb8c54910e007b61281b70791147bb997"
+    },
+    {
+      "platform": "linux",
+      "name": "lagu-music-player_0.2.1_amd64.deb",
+      "size": 105794068,
+      "sha256": "0ea8b5bdb71fdcc1ead0e5bb37b9be2e4fb4f482f6a64d57072670320632378f"
+    },
+    {
+      "platform": "linux",
+      "name": "lagu-music-player-0.2.1.x86_64.rpm",
+      "size": 94588456,
+      "sha256": "2b92779bee31fec42ca1ca44b0f4fd3cdaf53bf6881274361c80f59cdcd0db43"
+    },
+    {
+      "platform": "linux",
+      "name": "lagu-music-player-0.2.1.tar.gz",
+      "size": 125417425,
+      "sha256": "5652d077f34131a356d55e3812c889e5f02618ac17bbd994bcf9629903b578ed"
+    },
+    {
+      "platform": "linux",
+      "name": "lagu-0.2.1-1-x86_64.pkg.tar.zst",
+      "size": 123963394,
+      "sha256": "0dd4d58a7be0759ea6509af3c594cf8d2ffa390bc6706c02d45ead37ffb89de0"
+    }
+  ]
+}

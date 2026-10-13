@@ -31,8 +31,8 @@ files=(
   "Lagu-${VERSION}.AppImage"
   "lagu-music-player_${VERSION}_amd64.deb"
   "lagu-music-player-${VERSION}.x86_64.rpm"
-  "Lagu-${VERSION}.flatpak"
   "lagu-music-player-${VERSION}.tar.gz"
+  "lagu-${VERSION}-1-x86_64.pkg.tar.zst"
 )
 assets=()
 for f in "${files[@]}"; do
