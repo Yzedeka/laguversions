@@ -7,44 +7,44 @@
     {
       "platform": "windows",
       "name": "Lagu-0.2.1-setup.exe",
-      "size": 118295569,
-      "sha256": "9e167d4f18cc87fb559d88866641eb8db5546c99b0bb929444b615eb1a50f5b3"
+      "size": 118295685,
+      "sha256": "82b9a4d0b8778a61059d6a10039a70fb1e7e72b362e133dcee30621615f89f9a"
     },
     {
       "platform": "macos",
       "name": "Lagu-0.2.1-mac.zip",
-      "size": 389155737,
-      "sha256": "f751475fed6edede94b385c2e909f1f3dbf7b78c2b1121f59c59bb9c1d9deda5"
+      "size": 389155746,
+      "sha256": "bbf8234bd26ea70b02396c4d7d16ab0f394e43bb305fd29bbea6055c5a645f49"
     },
     {
       "platform": "linux",
       "name": "Lagu-0.2.1.AppImage",
-      "size": 131472965,
-      "sha256": "10f426213384a8585973f1f60041c88eb8c54910e007b61281b70791147bb997"
+      "size": 131472982,
+      "sha256": "9a62d5ff3197b2e5c61e835ff8e572c4f36ebf4ac98d07f6e6e21d5ab6da2b78"
     },
     {
       "platform": "linux",
       "name": "lagu-music-player_0.2.1_amd64.deb",
-      "size": 105794068,
-      "sha256": "0ea8b5bdb71fdcc1ead0e5bb37b9be2e4fb4f482f6a64d57072670320632378f"
+      "size": 105795248,
+      "sha256": "d18d1316f196c48d51188b9bb87008a08770f22de1e94dc7680ff3bcbb2b2634"
     },
     {
       "platform": "linux",
       "name": "lagu-music-player-0.2.1.x86_64.rpm",
-      "size": 94588456,
-      "sha256": "2b92779bee31fec42ca1ca44b0f4fd3cdaf53bf6881274361c80f59cdcd0db43"
+      "size": 94588168,
+      "sha256": "8589ab900dd7326502a65a84aff8519e03f75a0ba3410d3d4c0d60a234f97509"
     },
     {
       "platform": "linux",
       "name": "lagu-music-player-0.2.1.tar.gz",
-      "size": 125417425,
-      "sha256": "5652d077f34131a356d55e3812c889e5f02618ac17bbd994bcf9629903b578ed"
+      "size": 125417493,
+      "sha256": "21ba0611a5cb31e2ea45a3d888d5fdc917a947c22dc33ddb2734649f22c70615"
     },
     {
       "platform": "linux",
       "name": "lagu-0.2.1-1-x86_64.pkg.tar.zst",
-      "size": 123963394,
-      "sha256": "0dd4d58a7be0759ea6509af3c594cf8d2ffa390bc6706c02d45ead37ffb89de0"
+      "size": 123963964,
+      "sha256": "d761c7357cd3dc928a348e6d7d64bbaa032aed3ba09256aed1bcc4ee810618c6"
     }
   ]
 }
