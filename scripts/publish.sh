@@ -33,6 +33,7 @@ files=(
   "lagu-music-player-${VERSION}.x86_64.rpm"
   "lagu-music-player-${VERSION}.tar.gz"
   "lagu-${VERSION}-1-x86_64.pkg.tar.zst"
+  "Lagu-${VERSION}.flatpak"
 )
 assets=()
 for f in "${files[@]}"; do

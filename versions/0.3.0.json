@@ -1,0 +1,56 @@
+{
+  "version": "0.3.0",
+  "label": "v0.3b",
+  "date": "2026-10-14",
+  "beta": true,
+  "files": [
+    {
+      "platform": "windows",
+      "name": "Lagu-0.3.0-setup.exe",
+      "size": 118632638,
+      "sha256": "9c3fd645d81efdf7e7ddf28ae697d2691c8bd268939c353b07952e4cd5945a94"
+    },
+    {
+      "platform": "macos",
+      "name": "Lagu-0.3.0-mac.zip",
+      "size": 389712069,
+      "sha256": "6a54f0e65dbf6efbff2f2161682758eebe7fc5b845fd3b31e6c180b2656ac949"
+    },
+    {
+      "platform": "linux",
+      "name": "Lagu-0.3.0.AppImage",
+      "size": 132067494,
+      "sha256": "b71043369a94ebb9e7a9f9747ee51f5f73a4c70ac31fcd16c1b54db0d2178cfd"
+    },
+    {
+      "platform": "linux",
+      "name": "lagu-music-player_0.3.0_amd64.deb",
+      "size": 106581388,
+      "sha256": "acf7e13dacc9fdf4bb7801a163d7567fc62967e29d6c21752ad0e33c5d78cd6f"
+    },
+    {
+      "platform": "linux",
+      "name": "lagu-music-player-0.3.0.x86_64.rpm",
+      "size": 94914057,
+      "sha256": "4a6d2baaf6bfacf98e7e831a1f0d97e4c584feea83b865b4228bff3c5e86716c"
+    },
+    {
+      "platform": "linux",
+      "name": "lagu-music-player-0.3.0.tar.gz",
+      "size": 125973457,
+      "sha256": "105068a8bd1b7f5e5f85bb118b75359acd399d06b3142166aadecd7b9a492ed9"
+    },
+    {
+      "platform": "linux",
+      "name": "lagu-0.3.0-1-x86_64.pkg.tar.zst",
+      "size": 124406105,
+      "sha256": "39d73d1789bdc9b3cc7be7fee3f61e1a1c5d47d7323bfdf39eb8c3cec71e7d97"
+    },
+    {
+      "platform": "linux",
+      "name": "Lagu-0.3.0.flatpak",
+      "size": 96573408,
+      "sha256": "d79fcbffa2cad718fccfb308a4d7f8b57fe514c5fec876a6577c684afeb16921"
+    }
+  ]
+}

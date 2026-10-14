@@ -15,6 +15,7 @@ import path from 'node:path'
 
 const buildDir = path.resolve(process.argv[2] ?? '../Lagu/build')
 const version = process.argv[3] ?? '0.1.0'
+const label = process.argv[4] ?? `v${version}b`
 const outDir = path.resolve('versions')
 
 const PLATFORM = {
@@ -45,7 +46,8 @@ const names = [
   `lagu-music-player_${version}_amd64.deb`,
   `lagu-music-player-${version}.x86_64.rpm`,
   `lagu-music-player-${version}.tar.gz`,
-  `lagu-${version}-1-x86_64.pkg.tar.zst`
+  `lagu-${version}-1-x86_64.pkg.tar.zst`,
+  `Lagu-${version}.flatpak`
 ]
 
 const files = []
@@ -63,7 +65,7 @@ for (const name of names) {
 mkdirSync(outDir, { recursive: true })
 const manifest = {
   version,
-  label: `v${version}b`,
+  label,
   date: new Date().toISOString().slice(0, 10),
   beta: true,
   files
