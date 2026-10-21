@@ -27,7 +27,8 @@ git push
 echo "==> Creating release ${TAG}"
 files=(
   "Lagu-${VERSION}-setup.exe"
-  "Lagu-${VERSION}-mac.zip"
+  "Lagu-${VERSION}-mac-arm64.zip"
+  "Lagu-${VERSION}-mac-x64.zip"
   "Lagu-${VERSION}.AppImage"
   "lagu-music-player_${VERSION}_amd64.deb"
   "lagu-music-player-${VERSION}.x86_64.rpm"

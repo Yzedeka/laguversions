@@ -10,6 +10,7 @@ limit** (a Release asset can be up to 2 GiB).
 
 | Version | Notes | Release |
 | --- | --- | --- |
+| `b0.4.1` | Bundled ffmpeg, macOS Apple Silicon + Intel, Windows/macOS fixes | [v0.4.1](https://github.com/Yzedeka/laguversions/releases/tag/v0.4.1) |
 | `b0.4` | yt-dlp downloads, playlist/album import, album spacing | [v0.4.0](https://github.com/Yzedeka/laguversions/releases/tag/v0.4.0) |
 | `v0.3b` | Playlists, artists, keybinds, 3D covers | [v0.3.0](https://github.com/Yzedeka/laguversions/releases/tag/v0.3.0) |
 | `v0.2.2b` | Folder + UI polish, artwork theming | [v0.2.2](https://github.com/Yzedeka/laguversions/releases/tag/v0.2.2) |

@@ -41,7 +41,8 @@ function sha256(file) {
 
 const names = [
   `Lagu-${version}-setup.exe`,
-  `Lagu-${version}-mac.zip`,
+  `Lagu-${version}-mac-arm64.zip`,
+  `Lagu-${version}-mac-x64.zip`,
   `Lagu-${version}.AppImage`,
   `lagu-music-player_${version}_amd64.deb`,
   `lagu-music-player-${version}.x86_64.rpm`,
