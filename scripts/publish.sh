@@ -35,6 +35,13 @@ files=(
   "lagu-music-player-${VERSION}.tar.gz"
   "lagu-${VERSION}-1-x86_64.pkg.tar.zst"
   "Lagu-${VERSION}.flatpak"
+  "latest-linux.yml"
+  "latest.yml"
+  "latest-mac.yml"
+  "Lagu-${VERSION}.AppImage.blockmap"
+  "Lagu-${VERSION}-setup.exe.blockmap"
+  "Lagu-${VERSION}-mac-x64.zip.blockmap"
+  "Lagu-${VERSION}-mac-arm64.zip.blockmap"
 )
 assets=()
 for f in "${files[@]}"; do

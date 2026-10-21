@@ -52,7 +52,8 @@ scripts/publish.sh 0.1.0 ../Lagu/build
 ```
 
 This writes `versions/0.1.0.json`, commits and pushes it, then creates the
-`v0.1.0` GitHub Release and uploads the installers. It needs the
+`v0.1.0` GitHub Release and uploads the installers plus the electron-updater
+feeds (`latest*.yml`) and blockmaps. It needs the
 [GitHub CLI](https://cli.github.com/) (`gh`) authenticated for this repository.
 
 ## Verifying a download
